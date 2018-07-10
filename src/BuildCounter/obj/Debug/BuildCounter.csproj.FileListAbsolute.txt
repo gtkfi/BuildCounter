@@ -1,0 +1,1 @@
+C:\koodi\vanhats\BuildCounter\BuildCounter\bin\Debug\BuildCounter.exe.config
